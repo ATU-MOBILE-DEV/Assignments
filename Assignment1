@@ -1,0 +1,4 @@
+void main(){
+    Sting name = "Humu";
+    print("Humu");
+}
