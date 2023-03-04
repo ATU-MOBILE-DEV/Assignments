@@ -1,0 +1,5 @@
+void main(){
+    var firstName = "Humu";
+    var lastName = "Wahab";
+    print(firstName + " " + lastName);
+}
