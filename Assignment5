@@ -1,0 +1,10 @@
+void main(){
+    int dividend = 50;
+    int divisor = 5;
+
+    int quotient = dividend ~/ divisor;
+    int remainder = dividend % divisor;
+
+    print(quotient);
+    print(remainder);
+}
