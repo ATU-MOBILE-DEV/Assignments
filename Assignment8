@@ -1,0 +1,8 @@
+void main(){
+    String str = '123';
+
+    int num = int.parse(str);
+
+    print('The sting is: $str');
+    print('The integer is: $num');
+}
