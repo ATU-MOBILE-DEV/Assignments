@@ -1,0 +1,9 @@
+void main(){
+    double principal = 100;
+    double rate = 10;
+    double time = 3;
+
+    double simpleinterest = (principal * rate * time) / 100;
+    
+    print(simple interest);
+}
