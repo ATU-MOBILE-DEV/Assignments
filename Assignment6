@@ -1,0 +1,12 @@
+void main(){
+    int a = 10;
+    int b = 20;
+
+    print(Before swapping: a = 10, b = 20);
+
+    int temp = a;
+    a = b;
+    b = temp;
+
+    print(After swapping: a = 20, a = 10);
+}
