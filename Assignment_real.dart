@@ -24,3 +24,9 @@ void main() {
   var square = num * num;
   print('Square of $num is $square');
 }
+
+void main() {
+  int a = num*num;
+  int square= a;
+  }
+  print(a(());
